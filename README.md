@@ -31,7 +31,7 @@ pip install requests
 #Assignment: Modules and Packages
 
 1. Create a python package called MyMainPackage.SubPackage
-2. Create a python *module* named "MyMainPackage.SomeMainScript" with a function that prints "This is the main module!"
-3. Create a python *module* named "MyMainPackage.SubPackage.SomeSubScript" with a function that prints "This is the sub module not the main module!"
+2. Create a python *module* named "MyMainPackage.SomeMainScript.py" with a function that prints "This is the main module!"
+3. Create a python *module* named "MyMainPackage.SubPackage.SomeSubScript.py" with a function that prints "This is the sub module not the main module!"
 4. Create a python program that imports both modules and calls the Main module's function and then calls the Sub module's function
 
